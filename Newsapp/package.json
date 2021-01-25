@@ -6,10 +6,12 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
+    "link": "react-native link",
     "test": "jest",
     "lint": "eslint ."
   },
   "dependencies": {
+    "native-base": "^2.15.2",
     "react": "16.13.1",
     "react-native": "0.63.4"
   },
